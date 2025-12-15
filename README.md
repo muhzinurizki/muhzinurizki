@@ -1,16 +1,49 @@
-## Hi there 👋
+# Muhzinur Rizki
+Information Systems Student | Full-Stack Web Developer
 
-<!--
-**muhzinurizki/muhzinurizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build business-oriented web applications with a strong focus on
+clean architecture, maintainability, and real operational workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- Svelte
+- Inertia.js
+- Tailwind CSS
+
+### Backend
+- Laravel
+- CodeIgniter
+- PHP
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tooling
+- Git
+
+---
+
+## What I Build
+- ERP / POS systems
+- Inventory & operational systems
+- Role-Based Access Control (RBAC)
+- Business workflow–driven applications
+
+---
+
+## Engineering Principles
+- Separation of concerns
+- Domain-oriented structure
+- Explicit authorization & access control
+- Code that reflects business rules, not just UI
+
+---
+
+📫 Contact  
+Email: muhzinurizki@gmail.com
