@@ -1,49 +1,12 @@
-# Muhzinur Rizki
-Information Systems Student | Full-Stack Web Developer
-
-I build business-oriented web applications with a strong focus on
-clean architecture, maintainability, and real operational workflows.
-
----
-
 ## Tech Stack
 
-### Frontend
-- React
-- Next.js
-- Svelte
-- Inertia.js
-- Tailwind CSS
-
-### Backend
-- Laravel
-- CodeIgniter
-- PHP
-
-### Database
-- MySQL
-- PostgreSQL
-
-### Tooling
-- Git
-
----
-
-## What I Build
-- ERP / POS systems
-- Inventory & operational systems
-- Role-Based Access Control (RBAC)
-- Business workflow–driven applications
-
----
-
-## Engineering Principles
-- Separation of concerns
-- Domain-oriented structure
-- Explicit authorization & access control
-- Code that reflects business rules, not just UI
-
----
-
-📫 Contact  
-Email: muhzinurizki@gmail.com
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
